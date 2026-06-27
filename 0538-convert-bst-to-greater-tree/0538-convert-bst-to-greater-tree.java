@@ -13,22 +13,41 @@
  *     }
  * }
  */
-class Solution {
+ class Solution {
+    private int sum = 0;
+
     public TreeNode convertBST(TreeNode root) {
-        ArrayList<TreeNode> arr = new ArrayList<>();
-        inorder(root, arr);
-        Collections.reverse(arr);
-        int sum = 0;
-        for(int i=0; i<arr.size(); i++){
-            sum+= arr.get(i).val;
-            arr.get(i).val = sum;
-        }
+        if (root == null) return null;
+        // Traverse right subtree first
+        convertBST(root.right);
+        // Update running sum and node value
+        sum += root.val;
+        root.val = sum;
+        // Traverse left subtree
+        convertBST(root.left);
         return root;
     }
-    public void inorder(TreeNode root, ArrayList<TreeNode>arr){
-        if(root==null) return;
-        inorder(root.left, arr);
-        arr.add(root);
-        inorder(root.right, arr);
-    }
 }
+
+
+
+
+// class Solution {
+//     public TreeNode convertBST(TreeNode root) {
+//         ArrayList<TreeNode> arr = new ArrayList<>();
+//         inorder(root, arr);
+//         Collections.reverse(arr);
+//         int sum = 0;
+//         for(int i=0; i<arr.size(); i++){
+//             sum+= arr.get(i).val;
+//             arr.get(i).val = sum;
+//         }
+//         return root;
+//     }
+//     public void inorder(TreeNode root, ArrayList<TreeNode>arr){
+//         if(root==null) return;
+//         inorder(root.left, arr);
+//         arr.add(root);
+//         inorder(root.right, arr);
+//     }
+// }
