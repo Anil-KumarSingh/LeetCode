@@ -101,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
