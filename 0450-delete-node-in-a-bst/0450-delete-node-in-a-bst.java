@@ -29,12 +29,19 @@ class Solution {
             if(root.left==null) return root.right;
             if(root.right==null) return root.left;
             // Case 3 (2 Child Nodes)
-            TreeNode succ = root.right;
-            while(succ.left!=null) succ = succ.left;
-            root.right = deleteNode(root.right,succ.val);
-            succ.left = root.left;
-            succ.right = root.right;
-            return succ;
+            // TreeNode succ = root.right;
+            // while(succ.left!=null) succ = succ.left;
+            // root.right = deleteNode(root.right,succ.val);
+            // succ.left = root.left;
+            // succ.right = root.right;
+            // return succ;
+
+            TreeNode pred = root.left;
+            while(pred.right!=null) pred = pred.right;
+            root.left=deleteNode(root.left,pred.val);
+            pred.left = root.left;
+            pred.right = root.right;
+            return pred;
 
         }
         return root;
