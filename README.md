@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0605-can-place-flowers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -136,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0443-string-compression) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
