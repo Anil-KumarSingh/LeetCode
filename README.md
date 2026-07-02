@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0605-can-place-flowers) |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1046-last-stone-weight) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -152,5 +155,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1046-last-stone-weight) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
