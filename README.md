@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0394-decode-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
