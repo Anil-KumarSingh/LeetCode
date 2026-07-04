@@ -197,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0394-decode-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
