@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1046-last-stone-weight) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3731-find-missing-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3731-find-missing-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Recursion
 |  |
