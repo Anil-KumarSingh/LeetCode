@@ -5,6 +5,7 @@ class Solution {
             adj.add(new ArrayList<>());
         }
         int[] indegree = new int[n];
+        boolean[] visited = new boolean[n];
         for(int[] e : edges){
             int u = e[0], v = e[1];
             adj.get(u).add(v);
@@ -14,18 +15,19 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<n;i++){
             if(indegree[i]==0) q.add(i);
+            visited[i]=true;
         }
-
-        int count = 0; 
-        while(!q.isEmpty()){
-            int vertex = q.remove();
-            count++;
-            for(int nei : adj.get(vertex)){
-                indegree[nei]--;
-                if(indegree[nei]==0) q.add(nei);
-            }
+       ArrayList<Integer> ans = new ArrayList<>();
+       while(q.size()>0){
+        int vertex = q.remove();
+        ans.add(vertex);
+        for(int ele: adj.get(vertex)){
+            indegree[ele]--;
+            if(indegree[ele]==0) q.add(ele);
+            visited[ele]=true;
         }
-
-        return count == n; 
+       }
+      if(ans.size()==n) return true;
+      else return false;
     }
 }
