@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -245,9 +247,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
