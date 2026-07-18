@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3731-find-missing-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -272,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
