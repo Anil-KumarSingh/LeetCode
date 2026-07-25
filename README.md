@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0684-redundant-connection](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0802-find-eventual-safe-states) |
