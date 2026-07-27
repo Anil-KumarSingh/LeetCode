@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0605-can-place-flowers](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
