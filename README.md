@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0051-n-queens/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
