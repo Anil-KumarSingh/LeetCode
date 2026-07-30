@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
