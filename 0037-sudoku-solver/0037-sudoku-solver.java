@@ -5,21 +5,21 @@ class Solution {
         private boolean backtrack(char[][] board){
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                if (board[i][j] == '.') {
+                if (board[i][j] == '.') {  //empty cell
                     for (char c = '1'; c <= '9'; c++) {
-                        if (isValid(board, i, j, c)) {
-                            board[i][j] = c;
-                            if (backtrack(board))
+                        if (isValid(board, i, j, c)) { //validation check
+                            board[i][j] = c;       //placing number
+                            if (backtrack(board))  //recurse
                                 return true;
                             else
-                                board[i][j] = '.';
+                                board[i][j] = '.';   //backtracking
                         }
                     }
-                    return false;
+                    return false;   //no valid number found
                 }
             }
         }
-        return true;
+        return true; //all cell filled
         
     }
     public boolean isValid(char[][] board, int row, int col, char num){
