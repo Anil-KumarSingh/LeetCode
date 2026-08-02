@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0064-minimum-path-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 ## Graph Theory
