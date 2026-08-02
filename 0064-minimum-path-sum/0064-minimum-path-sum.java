@@ -14,8 +14,8 @@ class Solution {
         if(m<0 || n<0)
         return Integer.MAX_VALUE;
         if(dp[m][n]!=-1) return dp[m][n];
-        int right = pathSum(grid,m-1, n);
+        int left = pathSum(grid,m-1, n);
         int up = pathSum(grid,m,n-1);
-        return dp[m][n]=grid[m][n]+Math.min(right,up);
+        return dp[m][n]=grid[m][n]+Math.min(left,up);
     }
 }
