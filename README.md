@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -365,4 +367,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
