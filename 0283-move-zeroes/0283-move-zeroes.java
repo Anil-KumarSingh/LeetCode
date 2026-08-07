@@ -1,15 +1,19 @@
 class Solution {
-    public static void moveZeroes(int[] nums) {
-        int j = 0; 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                if (i != j) {
-                    int temp = nums[i];
-                    nums[i] = nums[j];
-                    nums[j] = temp;
-                }
-                j++;
-            }
+    public void moveZeroes(int[] nums) {
+       Stack<Integer> st = new Stack<>();
+       Queue<Integer> q = new LinkedList<>();
+       for(int i = 0; i<nums.length; i++){
+        if(nums[i]==0)
+        st.push(nums[i]);
+        else
+        q.add(nums[i]);
+       }
+           int index = 0;
+        while (!q.isEmpty()) {
+            nums[index++] = q.poll();
         }
+        while (!st.isEmpty()) {
+            nums[index++] = st.pop();
     }
+}
 }
