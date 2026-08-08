@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [3731-find-missing-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,4 +379,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
