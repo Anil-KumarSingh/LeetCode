@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0605-can-place-flowers](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0605-can-place-flowers) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
