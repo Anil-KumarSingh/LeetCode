@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0184-department-highest-salary](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0595-big-countries) |
 ## Design
 | Problem Name | Difficulty |
