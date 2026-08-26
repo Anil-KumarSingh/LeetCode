@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0443-string-compression) |
