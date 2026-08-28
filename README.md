@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0743-network-delay-time) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0322-coin-change](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -406,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
