@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anil-KumarSingh/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Anil-KumarSingh/LeetCode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
