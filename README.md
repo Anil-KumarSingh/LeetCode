@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anil-KumarSingh/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 | Problem Name | Difficulty |
