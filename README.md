@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anil-KumarSingh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -436,4 +437,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Anil-KumarSingh/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
